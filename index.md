@@ -1,6 +1,6 @@
 <html>
   <div>
-    <h1>My Projects</h1>
+    <h1 class="projects-title">My Projects</h1>
   </div>
   <div>
       <h1>Project 1</h1>
