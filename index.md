@@ -4,7 +4,7 @@
   </div>
   <div>
       <h2><a href="https://thekeylesscoder.github.io/ubitiquous-memory/">ubitiquous-memory (Random Adjective-Word Generator) - COMING SOON</a></h2>
-      <img src="img/ubiqutious-memory.pdf">
+      <img src="img/ubiqutious-memory.png">
   </div>
   <div>
       <h2><a href="https://thekeylesscoder.github.io/hello-world/">Hello World - COMING SOON</a></h2>
