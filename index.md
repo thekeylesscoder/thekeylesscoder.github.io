@@ -14,7 +14,7 @@
       <img src="https://cdn.pixabay.com/photo/2020/03/26/10/58/norway-4970080_1280.jpg">
   </div>
   <div>
-      <h2><a href="https://thekeylesscoder.github.io/bookish-happiness/">bookish-happiness (Book Tracking App) - COMING SOON</h2>
+      <h2><a href="https://thekeylesscoder.github.io/bookish-happiness/">bookish-happiness (Book Tracking App) - COMING SOON</a></h2>
       <img src="https://cdn.pixabay.com/photo/2020/03/26/10/58/norway-4970080_1280.jpg">
   </div>
   <div>
