@@ -5,3 +5,4 @@ Due to the limited nature of GitHub Pages, this will show a specific number of p
 
 ## Resources
 ### [Jekyll documentation](https://jekyllrb.com/docs/)
+### [MDN Web Doc's unordered list reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
